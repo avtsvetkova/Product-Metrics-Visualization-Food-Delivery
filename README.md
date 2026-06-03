@@ -1,6 +1,9 @@
 # Pruduct-Metrics-Visualization-Food-Delivery
 Дашборд демонстрирует состояние клиентской базы сервиса доставки еды.
 
+## Ссылка на дашборд в Yandex DataLens 
+**https://datalens.yandex/3aoly8gh3uban?tab=pA**
+
 
 ### Описание данных
 
